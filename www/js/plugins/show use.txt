@@ -1,3 +1,0 @@
-ShowVariable initialize x 0.5 0.5 100 left
-ShowVariable initialize 1 0.5 0.5 100 left
-ShowVariable show 
